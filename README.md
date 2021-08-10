@@ -1,4 +1,4 @@
-# OpalKIdsWebsite
+# OpalKidsWebsite
 
 ## Link to website
 http://www.opalkids.in/
